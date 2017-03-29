@@ -1,0 +1,534 @@
+/*
+    This is my portfolio website..
+
+    ***Author***
+
+    SHAWN AHAMED JEWEL
+for query: shawnjewel@gmail.com
+
+*/
+
+/* index
+
+
+1.home
+    -logo
+    -menubar
+2.banner
+    -home-page
+3AboutMe
+    -pic
+    -myqualification
+    -progress=bar
+
+
+*/
+
+
+
+/*  <<<< Global css >>>>>   */
+
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body
+/*{font-family: 'Roboto', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Ravi Prakash', cursive;
+}
+*/
+li{
+    color:#fff;
+}
+
+
+
+
+
+
+
+
+
+/*  <<<<HOME>>>>>*/
+
+
+
+/* HEADER  */
+
+
+.navbar-default {
+    background-color:#000;
+    border-color:transparent;
+    margin: 0;
+    border-radius:0px;
+    min-height:70px;
+    
+}
+
+
+.logo{
+    color:#ADFF2F;
+}
+.logosecond{
+    color:#F13100;
+}
+.navbar-default .navbar-brand h2{
+    font-family: 'Ravi Prakash', cursive;
+    
+}
+
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar-default .navbar-nav > li > a:hover{
+    color:#ADFF2F;
+    font-size:20px;
+    
+    font-family: 'Oswald', sans-serif;
+}
+.navbar-toggle {
+   
+    margin-top: 28px;
+    
+}
+
+
+
+
+
+/*<<<<<banner>>>>>*/
+
+
+.banner{
+    background-image: url(../images/cover.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+.jewel{
+    
+    background-color:#FFB03A;
+   font-family: 'Roboto', sans-serif;
+    border:5px solid #ADFF2F;
+    margin-top: 17%;
+    padding:50px 0px 80px 0px ;
+    margin-bottom:20px;
+}
+
+.jewel p,.jewel h1{
+    line-height:25px;
+    font-weight: 200;
+    padding-left: 10px;
+    
+}
+
+
+   .social-icon,.social-icon a{
+       text-align: center;
+       font-size:40px;
+       border:2 px solid transparent;
+       background-color:;
+       
+       text-align: center;
+       display: inline-block;
+       color: #fff;
+   }
+
+   .fa-facebook{
+       
+       text-align: center;
+       border-radius: 50%;
+       padding:15px;
+   }
+.fa-facebook:hover{
+    background-color:#4862A3;
+}
+   .fa-linkedin{
+      
+       text-align: center;
+       border-radius: 50%;
+       padding:15px;
+   }
+.fa-linkedin:hover{ background-color:#0177B5 ;}
+   .fa-skype{
+       
+       text-align: center;
+       border-radius: 50%;
+       
+       padding:15px;
+   }
+.fa-skype:hover{background-color:#01A4E1 ;}
+   .fa-rss{
+      
+       text-align: center;
+       border-radius: 50%;
+       margin: 15px;
+       padding:15px;
+   }
+.fa-rss:hover{
+    background-color: #F69237;}
+
+.btn{
+    background-color: green;
+    border:transparent;
+    color: #fff;
+font-size: x-large;
+    
+}
+.btn:hover{
+    background-color: green;
+    border:transparent;
+    color: #fff;
+font-size: x-large;
+    
+}
+.btn-group{
+    padding-top:50px;
+    margin-bottom:10%;
+    color:#fff!important;
+    
+}
+.btn-group i{
+    padding:0px!important;
+    margin:0%!important;
+    border-radius:0%!important;
+     font-size:normal!important;
+color:#fff!important;
+   background-color:transparent!important;;
+    
+
+    
+}
+
+
+.modal-title{
+    margin:2%;
+    
+}
+.modal-header{
+    background-color:#FFB03A;
+}
+.btn-modal{
+    margin-left: 50%;
+}
+
+
+/*<<<<<<<<<<< about me>>>>>>>>>*/
+
+.about-me{
+   
+     font-family:'Raleway', sans-serif; sans-serif;
+}
+#about-me{
+    
+    font-size: 50px;
+    color:#01B2FE;
+    border-bottom:3px solid #027FDB;
+    
+    
+}
+
+.details{
+    
+    color:#0081DD;
+}
+
+.qutation{
+    font-family:font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+   font-size:25px;
+    color:black;
+}
+
+.row{
+    margin:0 0;
+}
+
+
+
+.progress{
+    margin:40px auto;
+}
+.progress-bar {
+    float: left;
+    width: 0;
+    height: 100%;
+    font-size:18px;
+    line-height: 21px;
+    color:#0081DD;
+    text-align: center;
+    background-color:#FFB03A;
+   
+}
+
+
+
+
+
+/*<<<<<<<<<<resume>>>>>>>>>*/
+
+.resume{
+    background-image: url(../images/Screenshot_3.png);
+    font-family:'Raleway', sans-serif;
+    
+}
+
+
+.row h1{
+    font-size: x-large;
+    margin:3% auto;
+}
+.row h4{
+    color:#FFB03A;
+}
+.row p{
+    color:gray;font-size:15px;
+}
+.row i{
+    font-size: 30px;
+    border-radius: 50%;
+    background-color:#FFB03A;
+    padding:15px;
+    color:#fff;
+}
+
+.education {
+    font-size:20px;
+    font-weight: 300;
+    
+    
+}
+
+.education:hover{
+    color:#FFB03A;
+}
+
+
+.line{
+    height:5px;
+    border-top:1px solid #027FDB;
+    border-bottom:2px solid blue;
+    margin:6%;
+}
+.fa-rotate-45 {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+
+
+/* <<<<portfolio >>>>>.*/
+
+
+
+
+.button {
+  display: inline-block;
+  padding: 0.5em 1.0em;
+  background: #EEE;
+  border: none;
+  border-radius: 7px;
+  background-image: linear-gradient( to bottom, hsla(0, 0%, 0%, 0), hsla(0, 0%, 0%, 0.2) );
+  color: #222;
+  font-family: sans-serif;
+  font-size: 16px;
+  text-shadow: 0 1px white;
+  cursor: pointer;
+  
+}
+
+.button:hover {
+  background-color: #8CF;
+  text-shadow: 0 1px hsla(0, 0%, 100%, 0.5);
+  color: #222;
+}
+
+.button:active,
+.button.is-checked {
+  background-color: #28F;
+}
+
+.button.is-checked {
+  color: white;
+  text-shadow: 0 -1px hsla(0, 0%, 0%, 0.8);
+}
+
+.button:active {
+  box-shadow: inset 0 1px 10px hsla(0, 0%, 0%, 0.8);
+}
+
+/* ---- button-group ---- */
+
+.button-group {
+  margin-bottom: 20px;
+ margin-left:20%; 
+}
+
+.button-group:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.button-group .button {
+  float: left;
+  border-radius: 0;
+  margin-left: 0;
+  margin-right: 1px;
+}
+
+.button-group .button:first-child { border-radius: 0.5em 0 0 0.5em; }
+.button-group .button:last-child { border-radius: 0 0.5em 0.5em 0; }
+
+/* ---- isotope ---- */
+
+.grid {
+  
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .element-item ---- */
+
+.element-item {
+  position: relative;
+  float: left;
+  margin-left: 3px;
+  width:33%;
+  color: #262524;
+}
+
+.element-item img{
+   min-height:220px;
+    
+}
+
+.element-item > * {
+  margin: 0;
+  padding: 0;
+}
+
+.element-item .name {
+  position: absolute;
+
+  left: 10px;
+  top: 60px;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.element-item .symbol {
+  position: absolute;
+  left: 10px;
+  top: 0px;
+  font-size: 42px;
+  font-weight: bold;
+  color: white;
+}
+
+.element-item .number {
+  position: absolute;
+  right: 8px;
+  top: 5px;
+}
+
+.element-item .weight {
+  position: absolute;
+  left: 10px;
+  top: 76px;
+  font-size: 12px;
+}
+
+.etemp{
+    height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ><<<<<<<<<<<contact>>>>>>>>> *//
+
+
+
+
+.contact{
+    
+    font-family:'Raleway', sans-serif;
+    background-image: url(../images/contactbg.png);
+    background-color:red;
+}
+
+
+.bg-color{
+    background-color: #252525;
+}
+.form-control{
+    background-color: #1A1A1A;
+    border: 1px solid #3a3a3a;
+    border-radius: 0px !important;
+    color:#fff !important;
+    font-weight:800;
+}
+.remark > .col-sm-12{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-bottom:5px;
+}
+
+
+
+
+
+
+
+
+/*------------------------------ FOOTER ------------------------------*/
+
+.footer{
+    background-color: #93B6BD;
+}
+#footerh{
+    color:#fff;
+    
+}
+
+.col-md-6>ul>li{
+    list-style: none;
+    margin-bottom: 50px;
+}
+
+
+
+
+
