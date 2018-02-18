@@ -1,3 +1,3 @@
 # shawnAhamed
 
-tjhis is a simple portfolio code.
+This is a simple portfolio html&css code.
