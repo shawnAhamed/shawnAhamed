@@ -55,12 +55,13 @@ gateway integration.
 - Database: Contributed in designing database relations and implementations.
 - Server: Maintenance and deployment of web applications on various servers.
 
-🎓 Education
-B.Sc. in Computer Science & Engineering (Sep 2021 – Feb 2024)
-Daffodil International University, Dhaka, Bangladesh
+## 🎓 Education
+- Master's in Software System and Service Management(2024 - Present)
+  Masaryk University, Brno, Czech Republic
+- B.Sc. in Information and Communication Engineering (2014 – 2018)
+  East West University, Dhaka, Bangladesh
 
-📫 Let's Connect
-Email: bdraihan71@gmail.com
-GitHub: github.com/bdraihan71
-LinkedIn: linkedin.com/in/bdraihan71 (Add your LinkedIn if available)
-🔥 Passionate about backend development, DevOps, and building scalable software solutions. Let's create something amazing together!
+## 📫 Let's Connect
+- Email: shawnjewel@gmail.com
+- LinkedIn:linkedin.com/in/shawnahamed/
+### ✅ ✅ ✅  Passionate about Automation Testing, backend development, and building scalable software solutions. Let's create something amazing together!
