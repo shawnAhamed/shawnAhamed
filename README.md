@@ -3,6 +3,8 @@
 ## 😊 About Me 
 
 I'm a Software Engineer with expertise in PHP, Laravel,Python, JavaScript,Reacjs, Nextjs, K6, Playwright, Git, Docker and Kubernetes. I have extensive experience working with AWS services (EC2) and managing hosting, domain, and subdomain setups. I specialize in building scalable web applications, optimizing backend systems, integrating third-party services such as Google Wallet, Apple Wallet, and crypto payments and Expert in tyesting with K6.
+
+
 ![GitHub Logo](https://camo.githubusercontent.com/59f1bf1e0c03f98c620e6456751406b0c8dba1ac0590704d93303b45cfe536ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465)
 ![GitHub Logo](https://camo.githubusercontent.com/839c2b7156d9a4e8f021ae6c539331e84ea18bf0fd0ee15835f0695a838b292e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465)
 ![GitHub Logo](https://camo.githubusercontent.com/b50d4b5449ac9bed0fc02238425fd56db93011d5019563595023ff0bb1a02162/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
