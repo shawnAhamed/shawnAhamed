@@ -31,30 +31,6 @@ optimizing deployments for scalability, reliability, and performance.
 - Developed and maintained CMS-driven web applications using PHP, Laravel, MySQL and JavaScript, ensuring
 scalability
 
-### Hbg IT – Web Developer(Remote) (Sep 2021 – Feb 2024)
-- Developing and maintaining isomorphic web applications using modern JavaScript frameworks like ReactJs and
-NextJs.
-- Determining the structure and design of web applications.
-- Striking a balance between functional and aesthetic design.
-- Optimization of the application for maximum speed and scalability, ensuring high performance under varying
-user loads.
-- Building reusable code for future use.
-
-### Bhuyian IT – Web Developer (Aug 2021 – Feb 2022)
-- Designed and implemented multiple e-Commerce websites, ensuring seamless user experience and payment
-gateway integration.
-- Collaborated with cross-functional teams to deliver customized web solutions.
-- Ensured website performance optimization, security updates, and troubleshooting.
-- Regularly updated content, improved functionality, and performed quality checks to maintain site stability.
-- Developed and maintained responsive websites using the WordPress and Shopify platforms.
-
-### Maya Digital Health Pte. Ltd. – Jr. Software Engineer (Feb 2019 – Jul 2021)
-- Development: Designed and developed new features for existing web app.
-- Design, Development, and Implementation of in-house API.
-- Implementation of third-party API, SDK, analysis tool, and marketinging tools.
-- Database: Contributed in designing database relations and implementations.
-- Server: Maintenance and deployment of web applications on various servers.
-
 ## 🎓 Education
 - Master's in Software System and Service Management(2024 - Present)
   Masaryk University, Brno, Czech Republic
@@ -63,5 +39,4 @@ gateway integration.
 
 ## 📫 Let's Connect
 - Email: shawnjewel@gmail.com
-- LinkedIn:linkedin.com/in/shawnahamed/
-### ✅ ✅ ✅  Passionate about Automation Testing, backend development, and building scalable software solutions. Let's create something amazing together!
+
