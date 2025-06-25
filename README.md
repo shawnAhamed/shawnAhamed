@@ -23,7 +23,7 @@ I'm a Software Engineer with expertise in PHP, Laravel,Python, JavaScript,Reacjs
 - Project Management: Jira, Trello, Asana
 
 ## 📈 Work Experience
-### Techynaf – Software Engineer – Performance and Development (Remote) (March 2024 – Present)
+### Techynaf – Software Engineer – Performance and Development (Remote) (March 2024 – Sept 2024)
 - Automated testing for two projects using Playwright and k6, ensuring application stability and performance.
 - Enhanced performance, efficiency, and workflow optimization for procurement management software.
 - Architected, deployed, and maintained the AWS infrastructure (EC2, S3, SNS), managing five EC2 servers, and
